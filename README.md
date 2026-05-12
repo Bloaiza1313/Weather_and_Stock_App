@@ -1,2 +1,1 @@
-# Weather_and_Stock_App
-Shows the current weather and live stock prices in one app.
+Shows the current weather and live stock prices in one app. Language: Python. Library: requests, tkinter.
